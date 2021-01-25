@@ -31,7 +31,7 @@ Index:
 
 
 ### 1.3 Sofware:
-- Jupyter Notbooks
+- Jupyter Notebooks
 
 Notes:
 - AWS Account:
